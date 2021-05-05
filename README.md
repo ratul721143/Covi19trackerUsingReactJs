@@ -1,3 +1,11 @@
+# `COVID-19 Tracker Website Using ReactJs and API for data`
+This is only frontend based webpage 
+*This webpage is deployed on firebase . My website Link is: https://covid-tracker-ratul.web.app/*
+This website is completely responsive.
+### How it looks like : Quick overview
+![covidtrackerApppic](https://user-images.githubusercontent.com/50637985/117154731-c59f6c00-add9-11eb-8d41-b0edd2ed1c97.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
