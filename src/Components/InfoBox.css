@@ -1,0 +1,9 @@
+.info__card {
+  margin: 20px 20px;
+  width: 200px;
+  cursor: pointer;
+}
+
+.card__title {
+  font-weight: 500 !important;
+}
